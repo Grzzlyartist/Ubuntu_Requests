@@ -1,4 +1,4 @@
-Ubuntu Image Fetcher 🌍📸
+#Ubuntu Inspired Image Fetcher 🌍📸
 A Python-based image downloader that embodies the Ubuntu philosophy of community, sharing, and respect. This tool mindfully collects images from the web while implementing safety precautions and duplicate prevention.
 
 Features ✨
@@ -22,7 +22,7 @@ Installation 🚀
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/ubuntu-image-fetcher.git
+git clone https://github.com/Grzzlyartist/Ubuntu_Requests.git
 cd ubuntu-image-fetcher
 Install required dependencies:
 
@@ -84,3 +84,4 @@ Failed: 1
 
 ✓ Connection strengthened. Community enriched.
 ✓ Images are ready for sharing and appreciation.
+
